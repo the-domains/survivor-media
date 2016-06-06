@@ -4,8 +4,15 @@
         <description><![CDATA[Survivor Media]]></description>
         <link>https://thegrid.ai/survivor-media/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 06 Jun 2016 20:37:07 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Jun 2016 20:38:03 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/survivor-media/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>BBC - Jehovah's Witnesses and child sexual abuse - litigation PR</p>]]></description>
+            <link>https://thegrid.ai/survivor-media/jehovahs-witnesses-and-child-sexual-abuse-litigation-pr/index.html</link>
+            <guid isPermaLink="false">01829d42-2ed6-4d2b-a28d-178a0126ff45</guid>
+            <pubDate>Mon, 06 Jun 2016 20:37:57 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Sunday Times - sexual harassment within the education sector</p>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/survivor-media/womans-hour/index.html</link>
             <guid isPermaLink="false">0083d919-8052-4ca3-ac11-6568175ad29f</guid>
             <pubDate>Mon, 06 Jun 2016 20:02:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>I work with trusted journalist partners</p>]]></description>
-            <link>https://thegrid.ai/survivor-media/628b20e1-4ae2-4209-bec8-5b1e4d2b89e1/index.html</link>
-            <guid isPermaLink="false">628b20e1-4ae2-4209-bec8-5b1e4d2b89e1</guid>
-            <pubDate>Mon, 06 Jun 2016 19:59:25 GMT</pubDate>
         </item>
     </channel>
 </rss>
