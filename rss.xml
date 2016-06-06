@@ -4,8 +4,14 @@
         <description><![CDATA[Survivor Media]]></description>
         <link>https://thegrid.ai/survivor-media/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 06 Jun 2016 19:58:23 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Jun 2016 19:59:26 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/survivor-media/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <link>https://thegrid.ai/survivor-media/628b20e1-4ae2-4209-bec8-5b1e4d2b89e1/index.html</link>
+            <guid isPermaLink="false">628b20e1-4ae2-4209-bec8-5b1e4d2b89e1</guid>
+            <pubDate>Mon, 06 Jun 2016 19:59:25 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Jehovah's Witnesses and child sexual abuse - litigation PR</p>]]></description>
@@ -71,13 +77,6 @@ same underhand tactics as were used in Boston 15 years ago.  </p>]]></descriptio
             <link>https://thegrid.ai/survivor-media/ryan-hooper-press-association/index.html</link>
             <guid isPermaLink="false">7a0c7d6b-dc40-4d40-867b-289096ab3a56</guid>
             <pubDate>Mon, 06 Jun 2016 19:41:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p></p>]]></description>
-            <link>https://thegrid.ai/survivor-media/04f82106-93e9-4155-87df-51df9996d8fa/index.html</link>
-            <guid isPermaLink="false">04f82106-93e9-4155-87df-51df9996d8fa</guid>
-            <pubDate>Mon, 06 Jun 2016 19:37:41 GMT</pubDate>
         </item>
     </channel>
 </rss>
