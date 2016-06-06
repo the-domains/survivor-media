@@ -4,10 +4,18 @@
         <description><![CDATA[Survivor Media]]></description>
         <link>https://thegrid.ai/survivor-media/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 06 Jun 2016 19:59:26 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Jun 2016 20:00:34 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/survivor-media/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Sexual harassment within the education sector</p>]]></description>
+            <link>https://thegrid.ai/survivor-media/76ef148d-e0d3-466d-af4f-82d5771ac686/index.html</link>
+            <guid isPermaLink="false">76ef148d-e0d3-466d-af4f-82d5771ac686</guid>
+            <pubDate>Mon, 06 Jun 2016 20:00:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>I work with trusted journalist partners</p>]]></description>
             <link>https://thegrid.ai/survivor-media/628b20e1-4ae2-4209-bec8-5b1e4d2b89e1/index.html</link>
             <guid isPermaLink="false">628b20e1-4ae2-4209-bec8-5b1e4d2b89e1</guid>
             <pubDate>Mon, 06 Jun 2016 19:59:25 GMT</pubDate>
@@ -70,13 +78,6 @@ same underhand tactics as were used in Boston 15 years ago.  </p>]]></descriptio
             <link>https://thegrid.ai/survivor-media/the-new-statesman/index.html</link>
             <guid isPermaLink="false">565be0a4-417a-4686-8ead-f8fe480f36ad</guid>
             <pubDate>Mon, 06 Jun 2016 19:46:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Ryan Hooper, Press Association:</p>]]></description>
-            <link>https://thegrid.ai/survivor-media/ryan-hooper-press-association/index.html</link>
-            <guid isPermaLink="false">7a0c7d6b-dc40-4d40-867b-289096ab3a56</guid>
-            <pubDate>Mon, 06 Jun 2016 19:41:23 GMT</pubDate>
         </item>
     </channel>
 </rss>
