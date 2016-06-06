@@ -4,8 +4,15 @@
         <description><![CDATA[Survivor Media]]></description>
         <link>https://thegrid.ai/survivor-media/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 06 Jun 2016 20:02:46 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Jun 2016 20:03:36 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/survivor-media/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Press Association</p>]]></description>
+            <link>https://thegrid.ai/survivor-media/558e07ce-208c-4a1c-a312-05867efa5233/index.html</link>
+            <guid isPermaLink="false">558e07ce-208c-4a1c-a312-05867efa5233</guid>
+            <pubDate>Mon, 06 Jun 2016 20:03:35 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Woman's Hour</p>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/survivor-media/communicating-difficult-issues-within-mass-media/index.html</link>
             <guid isPermaLink="false">1dd2d32e-a5fd-4036-a500-7ce3f5a244a9</guid>
             <pubDate>Mon, 06 Jun 2016 19:52:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Local ITV coverage</p>]]></description>
-            <link>https://thegrid.ai/survivor-media/local-itv-coverage/index.html</link>
-            <guid isPermaLink="false">0f2c8b67-db34-4632-9a9a-447d7eb568e4</guid>
-            <pubDate>Mon, 06 Jun 2016 19:49:44 GMT</pubDate>
         </item>
     </channel>
 </rss>
