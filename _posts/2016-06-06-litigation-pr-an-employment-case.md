@@ -4,20 +4,20 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: Litigation PR - an employment case
-datePublished: '2016-06-06T20:02:05.222Z'
-dateModified: '2016-06-06T20:02:04.838Z'
+description: Financial Times - litigation PR - an employment case
+datePublished: '2016-06-06T20:09:23.974Z'
+dateModified: '2016-06-06T20:09:01.391Z'
 title: ''
 author: []
+sourcePath: _posts/2016-06-06-litigation-pr-an-employment-case.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-06-06-litigation-pr-an-employment-case.md
 url: litigation-pr-an-employment-case/index.html
 _type: Article
 
 ---
-Litigation PR - an employment case
+Financial Times - litigation PR - an employment case
 
 During an employment tribunal I was tasked with managing press interest surrounding the case:
 
