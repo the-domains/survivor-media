@@ -4,8 +4,15 @@
         <description><![CDATA[Survivor Media]]></description>
         <link>https://thegrid.ai/survivor-media/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 06 Jun 2016 20:09:25 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Jun 2016 20:10:40 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/survivor-media/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>This lawyer is a feminist activist and wants this to be reflected in her press coverage where possible. I worked with carefully chosen journalists to achieve this.</p>]]></description>
+            <link>https://thegrid.ai/survivor-media/this-lawyer-is-a-feminist-activist-and-wants-this-to-be-refl/index.html</link>
+            <guid isPermaLink="false">fdda77d3-e175-4677-8eb7-c6db1a3dfdf1</guid>
+            <pubDate>Mon, 06 Jun 2016 20:10:39 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Financial Times - litigation PR - an employment case</p>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/survivor-media/jehovahs-witnesses-and-child-sexual-abuse-litigation-pr/index.html</link>
             <guid isPermaLink="false">01829d42-2ed6-4d2b-a28d-178a0126ff45</guid>
             <pubDate>Mon, 06 Jun 2016 19:58:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Revenge Pornography - creating a media storm</p>]]></description>
-            <link>https://thegrid.ai/survivor-media/revenge-pornography-creating-a-media-storm/index.html</link>
-            <guid isPermaLink="false">5d5de031-d763-406d-9ffd-102c4b4edc2c</guid>
-            <pubDate>Mon, 06 Jun 2016 19:56:46 GMT</pubDate>
         </item>
     </channel>
 </rss>
