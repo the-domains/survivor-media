@@ -4,10 +4,18 @@
         <description><![CDATA[Survivor Media]]></description>
         <link>https://thegrid.ai/survivor-media/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 06 Jun 2016 19:55:38 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Jun 2016 19:56:48 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/survivor-media/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Revenge Pornography - creating a media storm</p>]]></description>
+            <link>https://thegrid.ai/survivor-media/revenge-pornography-creating-a-media-storm/index.html</link>
+            <guid isPermaLink="false">5d5de031-d763-406d-9ffd-102c4b4edc2c</guid>
+            <pubDate>Mon, 06 Jun 2016 19:56:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Child sexual abuse within private schools</p>]]></description>
             <link>https://thegrid.ai/survivor-media/5e317507-8714-4ca6-a233-2e2666a9bcd2/index.html</link>
             <guid isPermaLink="false">5e317507-8714-4ca6-a233-2e2666a9bcd2</guid>
             <pubDate>Mon, 06 Jun 2016 19:55:37 GMT</pubDate>
@@ -70,13 +78,6 @@ same underhand tactics as were used in Boston 15 years ago.  </p>]]></descriptio
             <link>https://thegrid.ai/survivor-media/clients-in-the-news/index.html</link>
             <guid isPermaLink="false">66dc620e-14ef-4a76-b972-210650b43f7f</guid>
             <pubDate>Mon, 06 Jun 2016 19:26:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>What we do</p>]]></description>
-            <link>https://thegrid.ai/survivor-media/what-we-do/index.html</link>
-            <guid isPermaLink="false">8726eb08-691a-474f-bc8a-a47bb952e49b</guid>
-            <pubDate>Mon, 06 Jun 2016 19:24:34 GMT</pubDate>
         </item>
     </channel>
 </rss>
