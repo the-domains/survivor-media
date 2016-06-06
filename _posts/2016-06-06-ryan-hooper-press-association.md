@@ -5,18 +5,20 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Ryan Hooper, Press Association:'
-datePublished: '2016-06-06T19:39:14.292Z'
-dateModified: '2016-06-06T19:39:13.797Z'
+datePublished: '2016-06-06T19:41:23.113Z'
+dateModified: '2016-06-06T19:40:51.899Z'
 title: ''
 author: []
+sourcePath: _posts/2016-06-06-ryan-hooper-press-association.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-06-06-ryan-hooper-press-association.md
 url: ryan-hooper-press-association/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3311c59c-f4d7-44f7-92bb-3768ec85d826.png)
+
 Ryan Hooper, Press Association:
 
 "I have worked with Kirsty on several high-profile yet sensitive cases over the last two years which have resulted in nation-wide exposure for her clients and their issues.
