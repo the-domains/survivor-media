@@ -4,8 +4,15 @@
         <description><![CDATA[Survivor Media]]></description>
         <link>https://thegrid.ai/survivor-media/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 06 Jun 2016 20:00:34 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Jun 2016 20:02:06 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/survivor-media/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Litigation PR - an employment case</p>]]></description>
+            <link>https://thegrid.ai/survivor-media/litigation-pr-an-employment-case/index.html</link>
+            <guid isPermaLink="false">033beea6-b46d-4c8c-b7bf-24bdfb8c20c8</guid>
+            <pubDate>Mon, 06 Jun 2016 20:02:05 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Sexual harassment within the education sector</p>]]></description>
@@ -71,13 +78,6 @@ same underhand tactics as were used in Boston 15 years ago.  </p>]]></descriptio
             <link>https://thegrid.ai/survivor-media/06ba7ca8-42a1-43a4-abbf-64c1c9e94e4d/index.html</link>
             <guid isPermaLink="false">06ba7ca8-42a1-43a4-abbf-64c1c9e94e4d</guid>
             <pubDate>Mon, 06 Jun 2016 19:47:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>The New Statesman</p>]]></description>
-            <link>https://thegrid.ai/survivor-media/the-new-statesman/index.html</link>
-            <guid isPermaLink="false">565be0a4-417a-4686-8ead-f8fe480f36ad</guid>
-            <pubDate>Mon, 06 Jun 2016 19:46:50 GMT</pubDate>
         </item>
     </channel>
 </rss>
