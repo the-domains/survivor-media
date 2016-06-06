@@ -4,8 +4,15 @@
         <description><![CDATA[Survivor Media]]></description>
         <link>https://thegrid.ai/survivor-media/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 06 Jun 2016 20:03:36 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Jun 2016 20:04:06 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/survivor-media/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>House of Lords</p>]]></description>
+            <link>https://thegrid.ai/survivor-media/f4f96fb3-f179-46e5-85e5-b433e178d7e1/index.html</link>
+            <guid isPermaLink="false">f4f96fb3-f179-46e5-85e5-b433e178d7e1</guid>
+            <pubDate>Mon, 06 Jun 2016 20:04:04 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Press Association</p>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/survivor-media/this-lawyer-is-a-feminist-activist-and-wants-this-to-be-refl/index.html</link>
             <guid isPermaLink="false">fdda77d3-e175-4677-8eb7-c6db1a3dfdf1</guid>
             <pubDate>Mon, 06 Jun 2016 19:54:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Communicating difficult issues within mass media</p>]]></description>
-            <link>https://thegrid.ai/survivor-media/communicating-difficult-issues-within-mass-media/index.html</link>
-            <guid isPermaLink="false">1dd2d32e-a5fd-4036-a500-7ce3f5a244a9</guid>
-            <pubDate>Mon, 06 Jun 2016 19:52:54 GMT</pubDate>
         </item>
     </channel>
 </rss>
