@@ -5,21 +5,23 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Revenge Pornography - creating a media storm
-datePublished: '2016-06-06T19:56:46.665Z'
-dateModified: '2016-06-06T19:56:46.169Z'
+datePublished: '2016-06-06T20:42:33.127Z'
+dateModified: '2016-06-06T20:41:56.604Z'
 title: ''
 author: []
+sourcePath: _posts/2016-06-06-revenge-pornography-creating-a-media-storm.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-06-06-revenge-pornography-creating-a-media-storm.md
 url: revenge-pornography-creating-a-media-storm/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ec3af879-879d-460e-9c7d-c6449da5e201.png)
+
 Revenge Pornography - creating a media storm
 
-I helped finalise a documentary about the first civil claim to be made against a perpetrator of revenge pornography for the Guardian website; collaborating with the video journalist to ensure the story achieved high profile national press coverage. A few examples are included below: 
+I helped finalise a documentary about the first civil claim to be made against a perpetrator of revenge pornography for the Guardian website; collaborating with the video journalist to ensure the story achieved high profile national press coverage. I was very lucky to get to work with Youtuber Chrissy Chambers to secure publicity on this important issue on several occasions. A few examples of the coverage achieved are below.
 
 __
 
