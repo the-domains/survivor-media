@@ -8,8 +8,8 @@ description: >-
   This lawyer is a feminist activist and wants this to be reflected in her press
   coverage where possible. I worked with carefully chosen journalists to achieve
   this.
-datePublished: '2016-06-06T20:10:39.211Z'
-dateModified: '2016-06-06T19:54:27.307Z'
+datePublished: '2016-06-06T20:53:11.650Z'
+dateModified: '2016-06-06T20:52:36.664Z'
 title: ''
 author: []
 sourcePath: >-
@@ -21,6 +21,8 @@ url: this-lawyer-is-a-feminist-activist-and-wants-this-to-be-refl/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/85cb5a14-0297-46e6-b7f0-696e7b9d6eb2.png)
+
 A hot press potato
 
 This lawyer is a feminist activist and wants this to be reflected in her press coverage where possible. I worked with carefully chosen journalists to achieve this.
