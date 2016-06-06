@@ -4,8 +4,15 @@
         <description><![CDATA[Survivor Media]]></description>
         <link>https://thegrid.ai/survivor-media/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 06 Jun 2016 20:04:06 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Jun 2016 20:04:52 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/survivor-media/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Telegraph.co.uk</p>]]></description>
+            <link>https://thegrid.ai/survivor-media/telegraphcouk/index.html</link>
+            <guid isPermaLink="false">79c3872d-316f-482d-b30c-60d31f19b1aa</guid>
+            <pubDate>Mon, 06 Jun 2016 20:04:49 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>House of Lords</p>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/survivor-media/5e317507-8714-4ca6-a233-2e2666a9bcd2/index.html</link>
             <guid isPermaLink="false">5e317507-8714-4ca6-a233-2e2666a9bcd2</guid>
             <pubDate>Mon, 06 Jun 2016 19:55:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>This lawyer is a feminist activist and wants this to be reflected in her press coverage where possible. I worked with carefully chosen journalists to achieve this.</p>]]></description>
-            <link>https://thegrid.ai/survivor-media/this-lawyer-is-a-feminist-activist-and-wants-this-to-be-refl/index.html</link>
-            <guid isPermaLink="false">fdda77d3-e175-4677-8eb7-c6db1a3dfdf1</guid>
-            <pubDate>Mon, 06 Jun 2016 19:54:24 GMT</pubDate>
         </item>
     </channel>
 </rss>
